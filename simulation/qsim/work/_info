@@ -1,0 +1,164 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dF:/Profissional/UNIFESP/13° Semestre/LabComunicacaoDigital/Pós Pandemia/Projeto Final/PC1/projetoFinal/ModuloSeparado/simulation/qsim
+vhard_block
+Z0 !s110 1600727491
+!i10b 1
+!s100 ?BI[V44T@JT07=?C^][112
+I3cfQcLIH<GHAi_ek@2>oX1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/henri/Desktop/ProjetoUART/simulation/qsim
+Z3 w1600727489
+Z4 8moduloRede.vo
+Z5 FmoduloRede.vo
+L0 3180
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1600727491.000000
+Z8 !s107 moduloRede.vo|
+Z9 !s90 -work|work|moduloRede.vo|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+vmoduloRede
+Z12 !s110 1599439401
+!i10b 1
+!s100 T5OF=FUb6QTcYJS323UJL3
+Ian4Td5n;PB;__MYWl0^b>1
+R1
+Z13 dC:/ModuloSeparado/simulation/qsim
+w1599439395
+R4
+R5
+Z14 L0 31
+R6
+r1
+!s85 0
+31
+!s108 1599439400.000000
+R8
+R9
+!i113 1
+R10
+R11
+nmodulo@rede
+vmoduloRede_vlg_vec_tst
+R12
+!i10b 1
+!s100 AzA>Q^1T5BbhLF;kk>3=l0
+IASd2G3OcCcW`U8;dHVUl^3
+R1
+R13
+w1599439394
+8Waveform.vwf.vt
+FWaveform.vwf.vt
+Z15 L0 29
+R6
+r1
+!s85 0
+31
+!s108 1599439401.000000
+!s107 Waveform.vwf.vt|
+!s90 -work|work|Waveform.vwf.vt|
+!i113 1
+R10
+R11
+nmodulo@rede_vlg_vec_tst
+vUART
+Z16 !s110 1600219994
+!i10b 1
+!s100 Qk1G?Y1[NPZk7?zXd6RGG3
+IP^fUZjQ[]6E6ea<kzD=f60
+R1
+R13
+w1600219992
+R4
+R5
+R14
+R6
+r1
+!s85 0
+31
+!s108 1600219993.000000
+R8
+R9
+!i113 1
+R10
+R11
+n@u@a@r@t
+vUART_teste_TX
+R0
+!i10b 1
+!s100 3M1AdHdnQZRW4HGzdFnNe1
+I9U1=Z?io=D5UBzPCmaXSH1
+R1
+R2
+R3
+R4
+R5
+R14
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@u@a@r@t_teste_@t@x
+vUART_teste_TX_vlg_vec_tst
+R0
+!i10b 1
+!s100 L55c537WIE_KoV4lmkDLQ0
+IzF<92lE61]MHzPY0CJWO@3
+R1
+R2
+w1600727488
+8TesteTX.vwf.vt
+FTesteTX.vwf.vt
+R15
+R6
+r1
+!s85 0
+31
+R7
+!s107 TesteTX.vwf.vt|
+!s90 -work|work|TesteTX.vwf.vt|
+!i113 1
+R10
+R11
+n@u@a@r@t_teste_@t@x_vlg_vec_tst
+vUART_vlg_vec_tst
+R16
+!i10b 1
+!s100 H9k0Z@O[^7gmL@aJY`QS30
+IngiNooMIo6Aj9Na_3I_kT0
+R1
+R13
+w1600219991
+8Waveform2.vwf.vt
+FWaveform2.vwf.vt
+R15
+R6
+r1
+!s85 0
+31
+!s108 1600219994.000000
+!s107 Waveform2.vwf.vt|
+!s90 -work|work|Waveform2.vwf.vt|
+!i113 1
+R10
+R11
+n@u@a@r@t_vlg_vec_tst

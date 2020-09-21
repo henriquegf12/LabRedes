@@ -1,0 +1,77 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "Tx",
+					"strict" : false
+				},
+				{
+					"name" : "tick",
+					"strict" : false
+				},
+				{
+					"name" : "TxDone",
+					"strict" : false
+				},
+				{
+					"name" : "Data_send[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Opcode[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Opcode[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Opcode[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Opcode[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Opcode[5]",
+					"strict" : false
+				},
+				{
+					"name" : "Opcode[4]",
+					"strict" : false
+				},
+				{
+					"name" : "Data_send[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Data_send[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Data_send[4]",
+					"strict" : false
+				},
+				{
+					"name" : "Clk",
+					"strict" : false
+				},
+				{
+					"name" : "Data_send[5]",
+					"strict" : false
+				},
+				{
+					"name" : "Data_send[6]",
+					"strict" : false
+				},
+				{
+					"name" : "Data_send[7]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

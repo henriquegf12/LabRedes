@@ -1,0 +1,29 @@
+module UART(	clock, tick, opcode, bitRx,
+								dadoASerEscritoNoBanco, rxFim);
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+endmodule

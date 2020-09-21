@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Mon Sep 21 19:50:52 2020
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Lite Edition
+Revision Name : moduloRede
+Top-level Entity Name : UART_teste_TX
+Family : Cyclone IV E
+Total logic elements : 97
+    Total combinational functions : 97
+    Dedicated logic registers : 52
+Total registers : 52
+Total pins : 18
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
